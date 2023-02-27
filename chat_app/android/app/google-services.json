@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "454326768685",
+    "firebase_url": "https://chat-app-c495a-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "chat-app-c495a",
     "storage_bucket": "chat-app-c495a.appspot.com"
   },
@@ -29,6 +30,13 @@
             {
               "client_id": "454326768685-ck57h0oaktkga0fukj5pscufsidl5074.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "454326768685-0ilo9ee02kr5e3ufoo6fqesdec4v8pm7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
             }
           ]
         }
